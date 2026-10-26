@@ -36,7 +36,7 @@ For example: `TurnOffLight-MPC`
 | Name | GitHub | Initials | Role |
 | ---- | ------ | -------- | ---- |
 | David Vidic | TBD | DV | TBD |
-| Lewis Figueroa | TBD | TBD | TBD |
+| Lewis Figueroa | TBD | LF | TBD |
 | Mateo Cordeiro | [GitHub](https://github.com/MateoCordeiro) | MC | TBD |
 | Sathvik Potlapalli | TBD | SP | TBD |
 
