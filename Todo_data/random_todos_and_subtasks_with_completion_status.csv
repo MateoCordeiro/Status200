@@ -1,4 +1,4 @@
-﻿todo,subtask 1,subtask 2,subtask 3,subtask 4,completed,completed 1,completed 2,completed 3,completed 4
+﻿todo,subtask1,subtask2,subtask3,subtask4,completed,completed1,completed2,completed3,completed4
 Review pull request,Read the change summary,Inspect modified files,,,1,1,0,,
 Refactor helper functions,Identify repeated logic,Simplify function names,,,0,0,1,,
 Create a bug report,Describe the observed issue,List reproduction steps,Capture expected behavior,,0,0,0,0,
