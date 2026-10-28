@@ -1,0 +1,101 @@
+﻿todo,subtask 1,subtask 2,subtask 3,subtask 4,completed,completed 1,completed 2,completed 3,completed 4
+Review pull request,Read the change summary,Inspect modified files,,,1,1,0,,
+Refactor helper functions,Identify repeated logic,Simplify function names,,,0,0,1,,
+Create a bug report,Describe the observed issue,List reproduction steps,Capture expected behavior,,0,0,0,0,
+Organize photo folders,Group photos by event,Rename key folders,,,0,0,1,,
+Organize study materials,Group notes by subject,,,,0,0,,,
+Review security settings,Check account recovery,Review active sessions,Enable available protections,Save updated settings,0,1,0,0,1
+Update documentation links,,,,,1,,,,
+Update task board,,,,,1,,,,
+Read a technical article,,,,,0,,,,
+Research testing tools,,,,,1,,,,
+Review project notes,Gather recent notes,Highlight key decisions,,,1,0,0,,
+Update contact list,Find duplicate contacts,Correct outdated details,Group useful contacts,,1,0,0,0,
+Review error logs,Open recent log files,Filter repeated errors,,,1,1,0,,
+Test search behavior,,,,,1,,,,
+Review deployment steps,Read the release checklist,Verify environment settings,Confirm rollback steps,Document missing instructions,0,1,0,0,0
+Practice typing accuracy,,,,,0,,,,
+Update README file,Check setup instructions,Refresh feature summary,Verify command examples,,0,1,1,1,
+Compare hosting options,Estimate expected traffic,Compare service limits,Review pricing tiers,,0,1,1,1,
+Back up important files,Choose backup location,Select important folders,,,1,0,0,,
+Check cloud storage,Review available space,Find large old files,Remove unnecessary copies,Confirm sync status,1,1,1,1,0
+Compare note-taking apps,List essential features,Check export options,Compare device support,Try the strongest candidates,1,0,1,0,0
+Schedule dentist visit,Check available dates,,,,1,1,,,
+Create reusable template,Choose a repeated workflow,List required fields,,,0,1,1,,
+Document API endpoints,List available endpoints,Record request formats,Add response examples,,1,0,1,0,
+Update app dependencies,Check package versions,Review breaking changes,Update compatible packages,,1,1,1,1,
+Plan weekly meals,,,,,0,,,,
+Sort downloaded files,Review the downloads folder,,,,0,0,,,
+Review design mockups,Check page hierarchy,Compare spacing patterns,Review component consistency,,0,0,1,1,
+Check backup status,Open backup dashboard,Review the latest run,Investigate any failures,Confirm files are recoverable,0,0,1,0,1
+Review browser extensions,List installed extensions,Check recent usage,,,1,0,1,,
+Organize work queue,Review queued requests,Group similar tasks,Prioritize urgent items,,1,1,0,0,
+Track fitness progress,Record recent workouts,Log duration and effort,,,1,1,1,,
+Check mobile responsiveness,Test narrow screen sizes,Inspect navigation behavior,,,0,0,1,,
+Polish landing page,Review headline clarity,Check call-to-action text,,,0,1,1,,
+Prepare interview notes,Review the role description,List relevant projects,,,1,0,0,,
+Review accessibility labels,Inspect interactive controls,,,,0,0,,,
+Plan a learning session,Choose one learning goal,Gather learning resources,Set a time limit,Write a short recap,1,1,0,0,0
+Prepare meeting agenda,,,,,0,,,,
+Review API error handling,List common failure cases,,,,0,1,,,
+Organize project assets,Group assets by purpose,Rename unclear files,Remove unused versions,Check references in code,1,1,1,0,1
+Plan weekend errands,List required stops,Check store hours,,,0,1,0,,
+Test edge cases,List unusual input values,,,,1,0,,,
+Check project deadlines,Review milestone dates,,,,0,0,,,
+Plan monthly goals,Review current priorities,Choose measurable goals,Break goals into actions,,1,0,0,1,
+Organize desktop files,,,,,0,,,,
+Read product feedback,Collect recent comments,Group similar requests,,,0,0,1,,
+Create backup checklist,List critical files,Choose backup frequency,Record storage locations,,0,1,0,1,
+Improve form validation,,,,,1,,,,
+Review analytics summary,Choose the reporting period,,,,0,1,,,
+Fix layout spacing,Inspect crowded sections,Check margin values,Adjust padding rules,Preview responsive layouts,1,1,0,1,0
+Plan a workout,Choose a workout goal,Select suitable exercises,Set duration and rest,Prepare needed equipment,1,0,1,1,0
+Create a study schedule,,,,,0,,,,
+Clean up old branches,,,,,1,,,,
+Review test coverage,,,,,1,,,,
+Check calendar commitments,Review upcoming events,Resolve schedule conflicts,Add preparation time,,0,1,1,0,
+Practice coding exercises,,,,,1,,,,
+Clean browser bookmarks,Open saved bookmarks,Group related pages,,,0,1,0,,
+Learn a new shortcut,,,,,1,,,,
+Update resume details,Add recent experience,Refresh skill list,Check formatting,,0,1,0,0,
+Practice SQL queries,Choose a sample dataset,,,,1,1,,,
+Prepare presentation slides,Outline the key message,Add supporting examples,,,0,0,0,,
+Clean kitchen counters,Put away loose items,Wipe surfaces,Clean small appliances,,1,0,1,1,
+Prepare a project summary,State the project goal,,,,1,0,,,
+Organize receipts,Collect recent receipts,,,,1,0,,,
+Review code comments,Find outdated comments,,,,0,0,,,
+Improve loading states,Identify slow screens,,,,0,0,,,
+Sort email inbox,Archive old messages,Label active threads,Flag important emails,,1,0,1,0,
+Draft release notes,List user-facing changes,,,,0,1,,,
+Prepare demo data,,,,,1,,,,
+Test password reset,Request a reset link,Check email delivery,Verify link expiration,,1,1,0,0,
+Review subscription costs,List recurring payments,Check renewal dates,Identify unused services,Cancel unnecessary plans,0,0,1,1,0
+Update portfolio page,Choose recent work samples,,,,1,0,,,
+Draft a status update,Summarize completed work,List current blockers,Describe upcoming tasks,,1,0,1,1,
+Plan a short trip,Choose destination options,Check travel dates,Estimate trip costs,Draft a simple itinerary,0,1,0,0,1
+Plan next sprint,Review unfinished work,Choose sprint priorities,Estimate task effort,,1,1,1,1,
+Prepare grocery list,Check fridge supplies,Review planned meals,,,0,0,0,,
+Organize cables,Identify each cable,Separate unused cables,,,0,1,1,,
+Update project milestones,Review current progress,Confirm milestone dates,,,1,0,1,,
+Update software packages,Check outdated packages,Review release notes,Apply safe updates,Run project tests,0,0,1,1,1
+Update profile information,Review current details,,,,0,1,,,
+Write unit tests,Identify core functions,Cover normal inputs,,,0,0,0,,
+Review privacy settings,Check profile visibility,Review data permissions,Disable unnecessary sharing,,0,0,1,1,
+Check broken links,Scan key pages,Open flagged URLs,,,0,0,0,,
+Check website accessibility,Navigate with keyboard,Review image alt text,Check heading order,Test color contrast,1,1,1,0,1
+Check notification settings,Review enabled alerts,,,,1,1,,,
+Check app performance,Measure initial load time,Inspect slow operations,Record baseline results,Identify likely bottlenecks,1,1,0,1,0
+Set up development environment,Install required tools,Configure environment variables,Install project dependencies,,1,0,1,0,
+Clean reusable components,Find unused components,Remove duplicate styles,Improve component names,Run visual checks,0,1,1,0,1
+Update local notes,Review recent notes,Merge related entries,Correct outdated details,Back up the notes,1,1,1,1,0
+Clean temporary files,Identify temporary folders,Close related applications,Remove safe old files,,1,0,1,0,
+Set up a reminder,Choose the reminder goal,Select a suitable date,Add a clear message,Verify reminder settings,1,0,0,1,0
+Review keyboard shortcuts,Find shortcuts for common tasks,Practice the top few,Create a reference note,Test them in context,0,0,0,1,0
+Inspect database schema,Review table relationships,,,,1,1,,,
+Arrange workspace,Clear unused items,Position daily tools,Manage cable clutter,Check chair and screen height,0,0,0,1,1
+Review monthly budget,Collect recent expenses,Group spending categories,Compare against limits,,1,1,1,0,
+Test login flow,Prepare test accounts,Check valid credentials,Test invalid credentials,Verify error messages,0,0,0,1,0
+Inspect network requests,Open browser developer tools,,,,1,1,,,
+Research keyboard options,List required features,Compare switch types,,,1,1,1,,
+Draft project outline,,,,,0,,,,
+Create a reading list,Collect recommended titles,,,,1,0,,,
