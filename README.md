@@ -35,10 +35,10 @@ For example: `TurnOffLight-MPC`
 
 | Name | GitHub | Initials | Role |
 | ---- | ------ | -------- | ---- |
-| David Vidic | TBD | DV | TBD |
-| Lewis Figueroa | TBD | LF | TBD |
+| David Vidic | [GitHub](https://github.com/David-G-Vidic)  | DV | TBD |
+| Lewis Figueroa | [GitHub](https://github.com/l3wls) | LF | TBD |
 | Mateo Cordeiro | [GitHub](https://github.com/MateoCordeiro) | MC | TBD |
-| Sathvik Potlapalli | TBD | SP | TBD |
+| Sathvik Potlapalli | [GitHub](https://github.com/Sathvik1500) | SP | TBD |
 
 ## Acknowledgments
 
